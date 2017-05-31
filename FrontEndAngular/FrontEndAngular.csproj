@@ -65,6 +65,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\app.module.js" />
+    <Content Include="app\main.js" />
     <Content Include="hello test.html" />
     <Content Include="packages.config" />
     <Content Include="Scripts\angular-animate.js" />
